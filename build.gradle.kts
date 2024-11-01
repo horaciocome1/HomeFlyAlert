@@ -24,8 +24,6 @@ dependencies {
     implementation(libs.ktor.server.core)
     implementation(libs.ktor.serialization.kotlinx.json)
     implementation(libs.ktor.server.call.logging)
-    implementation(libs.ktor.simple.cache)
-    implementation(libs.ktor.simple.redis.cache)
     implementation(libs.ktor.server.default.headers)
     implementation(libs.ktor.server.netty)
     implementation(libs.logback.classic)
