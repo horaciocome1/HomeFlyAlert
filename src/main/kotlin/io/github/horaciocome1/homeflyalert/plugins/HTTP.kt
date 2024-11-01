@@ -1,4 +1,4 @@
-package com.example.plugins
+package io.github.horaciocome1.homeflyalert.plugins
 
 import io.ktor.server.application.Application
 import io.ktor.server.application.install
